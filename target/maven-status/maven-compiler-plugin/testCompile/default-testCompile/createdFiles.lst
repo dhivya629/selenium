@@ -1,0 +1,6 @@
+stepDefinition\FbLogin.class
+parallel\StepDefs.class
+parallel\RunCucumberTest.class
+stepDefinition\OrangehrmDemo.class
+testrunner\Runner.class
+stepDefinition\DatatableDemo.class
